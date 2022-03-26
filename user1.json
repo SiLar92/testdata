@@ -83,6 +83,15 @@
         "user1.json"
       ],
       "groupid": "PLACEHOLDER_GROUP_ID"
+    },
+    {
+      "groupname": "SomeOtherGroup",
+      "founderid": "user1.json",
+      "entries": [],
+      "members": [
+        "user1.json"
+      ],
+      "groupid": "PLACEHOLDER_GROUP_ID"
     }
   ],
   "friends": [
