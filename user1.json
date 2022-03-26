@@ -2,6 +2,6 @@
 	"email":"testbruker@post",
 	"groups":[{}],
 	"password":"1234",
-	"userid":"01110",
+	"userid":"user1.json",
 	"username":"Ola Normann"
 }
