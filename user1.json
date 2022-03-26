@@ -91,7 +91,7 @@
       "members": [
         "user1.json"
       ],
-      "groupid": "group1.json"
+      "groupid": "group2.json"
     },
     {
       "groupname": "EmptyGroup1",
@@ -100,7 +100,7 @@
       "members": [
         "user1.json"
       ],
-      "groupid": "group1.json"
+      "groupid": "group3.json"
     }
   ]
 }
