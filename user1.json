@@ -10,84 +10,75 @@
       "entries": [
         {
           "title": "Purchase 1",
-          "date": {},
-          "sum": 90.0,
+          "date": "2021-12-25",
+          "sum": 27.0,
           "ownerid": "user1.json",
           "items": []
         },
         {
           "title": "Purchase 2",
-          "date": {},
-          "sum": 34.0,
+          "date": "2021-12-15",
+          "sum": 18.0,
           "ownerid": "user1.json",
           "items": []
         },
         {
           "title": "Purchase 3",
-          "date": {},
-          "sum": 65.0,
+          "date": "2021-12-11",
+          "sum": 58.0,
           "ownerid": "user1.json",
           "items": []
         },
         {
           "title": "Purchase 4",
-          "date": {},
-          "sum": 34.0,
+          "date": "2021-12-21",
+          "sum": 80.0,
           "ownerid": "user1.json",
           "items": []
         },
         {
           "title": "Purchase 5",
-          "date": {},
-          "sum": 92.0,
+          "date": "2021-12-28",
+          "sum": 8.0,
           "ownerid": "user1.json",
           "items": []
         },
         {
           "title": "Purchase 6",
-          "date": {},
-          "sum": 7.0,
+          "date": "2021-12-18",
+          "sum": 23.0,
           "ownerid": "user1.json",
           "items": []
         },
         {
           "title": "Purchase 7",
-          "date": {},
-          "sum": 83.0,
+          "date": "2021-12-28",
+          "sum": 18.0,
           "ownerid": "user1.json",
           "items": []
         },
         {
           "title": "Purchase 8",
-          "date": {},
-          "sum": 52.0,
+          "date": "2021-12-17",
+          "sum": 57.0,
           "ownerid": "user1.json",
           "items": []
         },
         {
           "title": "Purchase 9",
-          "date": {},
-          "sum": 29.0,
+          "date": "2021-12-16",
+          "sum": 47.0,
           "ownerid": "user1.json",
           "items": []
         },
         {
           "title": "Purchase 10",
-          "date": {},
-          "sum": 27.0,
+          "date": "2021-12-29",
+          "sum": 63.0,
           "ownerid": "user1.json",
           "items": []
         }
       ],
-      "members": [
-        "user1.json"
-      ],
-      "groupid": "PLACEHOLDER_GROUP_ID"
-    },
-    {
-      "groupname": "SomeOtherGroup",
-      "founderid": "user1.json",
-      "entries": [],
       "members": [
         "user1.json"
       ],
