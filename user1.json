@@ -1,5 +1,7 @@
 {
-	"email": "test@bruker.no",
-	"username":"Ola Nordmann",
-	"key":"1234"
+	"email":"testbruker@post",
+	"groups":[{}],
+	"password":"1234",
+	"userid":"00000",
+	"username":"Ola Normann"
 }
