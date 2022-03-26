@@ -1,7 +1,106 @@
 {
-	"email":"testbruker@post",
-	"groups":[{}],
-	"password":"1234",
-	"userid":"user1.json",
-	"username":"Ola Normann"
+  "userid": "user1.json",
+  "username": "Ola Normann",
+  "email": "E-post@noe.no",
+  "password": "1234",
+  "groups": [
+    {
+      "groupname": "Personal storage",
+      "founderid": "user1.json",
+      "entries": [
+        {
+          "title": "Purchase 1",
+          "date": {},
+          "sum": 90.0,
+          "ownerid": "user1.json",
+          "items": []
+        },
+        {
+          "title": "Purchase 2",
+          "date": {},
+          "sum": 34.0,
+          "ownerid": "user1.json",
+          "items": []
+        },
+        {
+          "title": "Purchase 3",
+          "date": {},
+          "sum": 65.0,
+          "ownerid": "user1.json",
+          "items": []
+        },
+        {
+          "title": "Purchase 4",
+          "date": {},
+          "sum": 34.0,
+          "ownerid": "user1.json",
+          "items": []
+        },
+        {
+          "title": "Purchase 5",
+          "date": {},
+          "sum": 92.0,
+          "ownerid": "user1.json",
+          "items": []
+        },
+        {
+          "title": "Purchase 6",
+          "date": {},
+          "sum": 7.0,
+          "ownerid": "user1.json",
+          "items": []
+        },
+        {
+          "title": "Purchase 7",
+          "date": {},
+          "sum": 83.0,
+          "ownerid": "user1.json",
+          "items": []
+        },
+        {
+          "title": "Purchase 8",
+          "date": {},
+          "sum": 52.0,
+          "ownerid": "user1.json",
+          "items": []
+        },
+        {
+          "title": "Purchase 9",
+          "date": {},
+          "sum": 29.0,
+          "ownerid": "user1.json",
+          "items": []
+        },
+        {
+          "title": "Purchase 10",
+          "date": {},
+          "sum": 27.0,
+          "ownerid": "user1.json",
+          "items": []
+        }
+      ],
+      "members": [
+        "user1.json"
+      ],
+      "groupid": "PLACEHOLDER_GROUP_ID"
+    }
+  ],
+  "friends": [
+    {
+      "userid": "00001",
+      "username": "Test User 1",
+      "email": "test1@email.com",
+      "password": "1234",
+      "groups": [],
+      "friends": []
+    },
+    {
+      "userid": "00002",
+      "username": "Test User 2",
+      "email": "test2@email.com",
+      "password": "1234",
+      "groups": [],
+      "friends": []
+    }
+  ]
 }
