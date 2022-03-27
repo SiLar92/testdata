@@ -89,7 +89,14 @@
       "founderid": "user1.json",
       "entries": [],
       "members": [
-        "user1.json"
+        "user1.json",
+        "PLACEHOLDER-USER-ID-7",
+        "PLACEHOLDER-USER-ID-4",
+        "PLACEHOLDER-USER-ID-5",
+        "PLACEHOLDER-USER-ID-6",
+        "PLACEHOLDER-USER-ID-1",
+        "PLACEHOLDER-USER-ID-2",
+        "PLACEHOLDER-USER-ID-3",
       ],
       "groupid": "group2.json"
     },
@@ -98,7 +105,11 @@
       "founderid": "user1.json",
       "entries": [],
       "members": [
-        "user1.json"
+        "user1.json",
+        "PLACEHOLDER-USER-ID-7",
+        "PLACEHOLDER-USER-ID-4",
+        "PLACEHOLDER-USER-ID-5",
+        "PLACEHOLDER-USER-ID-3",
       ],
       "groupid": "group3.json"
     }
