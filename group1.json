@@ -77,5 +77,5 @@
     "user1.json"
   ],
   "groupid": "group1.json",
-  "ratio": {"user1.json": 90.0}
+  "ratio": [90.0]
 }
