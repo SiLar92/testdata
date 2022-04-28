@@ -99,7 +99,8 @@
         "PLACEHOLDER-USER-ID-2",
         "PLACEHOLDER-USER-ID-3"
       ],
-      "groupid": "group2.json"
+      "groupid": "group2.json",
+      "ratios": { "user1.json": 100.0 }
     },
     {
       "groupname": "EmptyGroup1",
@@ -112,7 +113,8 @@
         "PLACEHOLDER-USER-ID-5",
         "PLACEHOLDER-USER-ID-3"
       ],
-      "groupid": "group3.json"
+      "groupid": "group3.json",
+      "ratios": { "user1.json": 100.0 }
     }
   ]
 }
