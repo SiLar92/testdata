@@ -82,7 +82,8 @@
       "members": [
         "user1.json"
       ],
-      "groupid": "group1.json"
+      "groupid": "group1.json",
+      "ratios": { "user1.json": 90.0 }
     },
     {
       "groupname": "EmptyGroup2",
