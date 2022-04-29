@@ -9,313 +9,295 @@
       "founderid": "user1.json",
       "entries": [
         {
-          "entryid": "84890",
+          "entryid": "66979",
           "title": "Purchase 1",
-          "date": "2021-12-26",
+          "date": "2021-12-28",
           "ownerid": "user1.json",
           "sum": 0.0,
           "items": [
             {
-              "itemid": "SOME-ID",
+              "itemid": "11517",
               "name": "Item 1",
-              "cost": 24.0,
+              "cost": 20.0,
               "counted": true
             },
             {
-              "itemid": "SOME-ID",
+              "itemid": "89224",
               "name": "Item 2",
-              "cost": 37.0,
+              "cost": 38.0,
               "counted": true
             },
             {
-              "itemid": "SOME-ID",
+              "itemid": "91173",
               "name": "Item 3",
-              "cost": 9.0,
-              "counted": true
-            },
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 4",
-              "cost": 3.0,
-              "counted": true
-            }
-          ]
-        },
-        {
-          "entryid": "50642",
-          "title": "Purchase 2",
-          "date": "2021-12-27",
-          "ownerid": "user1.json",
-          "sum": 0.0,
-          "items": [
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 1",
-              "cost": 31.0,
-              "counted": true
-            },
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 2",
-              "cost": 7.0,
-              "counted": true
-            },
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 3",
-              "cost": 9.0,
-              "counted": true
-            },
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 4",
-              "cost": 29.0,
-              "counted": true
-            },
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 5",
-              "cost": 17.0,
-              "counted": true
-            }
-          ]
-        },
-        {
-          "entryid": "77046",
-          "title": "Purchase 3",
-          "date": "2021-12-14",
-          "ownerid": "user1.json",
-          "sum": 0.0,
-          "items": [
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 1",
               "cost": 44.0,
               "counted": true
             },
             {
-              "itemid": "SOME-ID",
-              "name": "Item 2",
-              "cost": 22.0,
-              "counted": true
-            }
-          ]
-        },
-        {
-          "entryid": "45683",
-          "title": "Purchase 4",
-          "date": "2021-12-18",
-          "ownerid": "user1.json",
-          "sum": 0.0,
-          "items": [
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 1",
-              "cost": 4.0,
-              "counted": true
-            },
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 2",
-              "cost": 58.0,
-              "counted": true
-            },
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 3",
-              "cost": 27.0,
-              "counted": true
-            },
-            {
-              "itemid": "SOME-ID",
+              "itemid": "24893",
               "name": "Item 4",
-              "cost": 40.0,
-              "counted": true
-            }
-          ]
-        },
-        {
-          "entryid": "59323",
-          "title": "Purchase 5",
-          "date": "2021-12-24",
-          "ownerid": "user1.json",
-          "sum": 0.0,
-          "items": [
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 1",
-              "cost": 13.0,
+              "cost": 38.0,
               "counted": true
             },
             {
-              "itemid": "SOME-ID",
-              "name": "Item 2",
-              "cost": 14.0,
-              "counted": true
-            },
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 3",
-              "cost": 57.0,
-              "counted": true
-            },
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 4",
-              "cost": 45.0,
-              "counted": true
-            }
-          ]
-        },
-        {
-          "entryid": "38042",
-          "title": "Purchase 6",
-          "date": "2021-12-13",
-          "ownerid": "user1.json",
-          "sum": 0.0,
-          "items": [
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 1",
-              "cost": 23.0,
-              "counted": true
-            },
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 2",
-              "cost": 25.0,
-              "counted": true
-            },
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 3",
-              "cost": 40.0,
-              "counted": true
-            },
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 4",
-              "cost": 12.0,
-              "counted": true
-            },
-            {
-              "itemid": "SOME-ID",
+              "itemid": "70910",
               "name": "Item 5",
-              "cost": 42.0,
-              "counted": true
-            }
-          ]
-        },
-        {
-          "entryid": "535",
-          "title": "Purchase 7",
-          "date": "2021-12-29",
-          "ownerid": "user1.json",
-          "sum": 0.0,
-          "items": [
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 1",
-              "cost": 7.0,
-              "counted": true
-            },
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 2",
-              "cost": 40.0,
-              "counted": true
-            },
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 3",
-              "cost": 24.0,
-              "counted": true
-            },
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 4",
-              "cost": 7.0,
-              "counted": true
-            }
-          ]
-        },
-        {
-          "entryid": "48598",
-          "title": "Purchase 8",
-          "date": "2021-12-18",
-          "ownerid": "user1.json",
-          "sum": 0.0,
-          "items": [
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 1",
-              "cost": 5.0,
-              "counted": true
-            },
-            {
-              "itemid": "SOME-ID",
-              "name": "Item 2",
               "cost": 32.0,
               "counted": true
             }
           ]
         },
         {
-          "entryid": "18619",
-          "title": "Purchase 9",
+          "entryid": "65965",
+          "title": "Purchase 2",
           "date": "2021-12-12",
           "ownerid": "user1.json",
           "sum": 0.0,
           "items": [
             {
-              "itemid": "SOME-ID",
+              "itemid": "23385",
               "name": "Item 1",
-              "cost": 45.0,
+              "cost": 10.0,
               "counted": true
             },
             {
-              "itemid": "SOME-ID",
+              "itemid": "74752",
               "name": "Item 2",
-              "cost": 8.0,
+              "cost": 51.0,
               "counted": true
             },
             {
-              "itemid": "SOME-ID",
+              "itemid": "41461",
               "name": "Item 3",
-              "cost": 2.0,
+              "cost": 4.0,
               "counted": true
             }
           ]
         },
         {
-          "entryid": "87519",
-          "title": "Purchase 10",
+          "entryid": "12778",
+          "title": "Purchase 3",
+          "date": "2021-12-30",
+          "ownerid": "user1.json",
+          "sum": 0.0,
+          "items": [
+            {
+              "itemid": "96896",
+              "name": "Item 1",
+              "cost": 59.0,
+              "counted": true
+            },
+            {
+              "itemid": "87329",
+              "name": "Item 2",
+              "cost": 50.0,
+              "counted": true
+            },
+            {
+              "itemid": "9193",
+              "name": "Item 3",
+              "cost": 19.0,
+              "counted": true
+            }
+          ]
+        },
+        {
+          "entryid": "94406",
+          "title": "Purchase 4",
+          "date": "2021-12-21",
+          "ownerid": "user1.json",
+          "sum": 0.0,
+          "items": [
+            {
+              "itemid": "75264",
+              "name": "Item 1",
+              "cost": 23.0,
+              "counted": true
+            },
+            {
+              "itemid": "62366",
+              "name": "Item 2",
+              "cost": 13.0,
+              "counted": true
+            }
+          ]
+        },
+        {
+          "entryid": "62128",
+          "title": "Purchase 5",
           "date": "2021-12-20",
           "ownerid": "user1.json",
           "sum": 0.0,
           "items": [
             {
-              "itemid": "SOME-ID",
+              "itemid": "7901",
               "name": "Item 1",
+              "cost": 28.0,
+              "counted": true
+            },
+            {
+              "itemid": "32260",
+              "name": "Item 2",
+              "cost": 39.0,
+              "counted": true
+            },
+            {
+              "itemid": "5721",
+              "name": "Item 3",
+              "cost": 28.0,
+              "counted": true
+            },
+            {
+              "itemid": "6167",
+              "name": "Item 4",
               "cost": 35.0,
               "counted": true
             },
             {
-              "itemid": "SOME-ID",
+              "itemid": "44547",
+              "name": "Item 5",
+              "cost": 11.0,
+              "counted": true
+            }
+          ]
+        },
+        {
+          "entryid": "79539",
+          "title": "Purchase 6",
+          "date": "2021-12-15",
+          "ownerid": "user1.json",
+          "sum": 0.0,
+          "items": [
+            {
+              "itemid": "66022",
+              "name": "Item 1",
+              "cost": 58.0,
+              "counted": true
+            },
+            {
+              "itemid": "21085",
               "name": "Item 2",
-              "cost": 26.0,
+              "cost": 54.0,
               "counted": true
             },
             {
-              "itemid": "SOME-ID",
+              "itemid": "68505",
               "name": "Item 3",
-              "cost": 5.0,
+              "cost": 51.0,
               "counted": true
             },
             {
-              "itemid": "SOME-ID",
+              "itemid": "39340",
               "name": "Item 4",
-              "cost": 26.0,
+              "cost": 6.0,
+              "counted": true
+            },
+            {
+              "itemid": "96571",
+              "name": "Item 5",
+              "cost": 18.0,
+              "counted": true
+            }
+          ]
+        },
+        {
+          "entryid": "92416",
+          "title": "Purchase 7",
+          "date": "2021-12-27",
+          "ownerid": "user1.json",
+          "sum": 0.0,
+          "items": [
+            {
+              "itemid": "64092",
+              "name": "Item 1",
+              "cost": 34.0,
+              "counted": true
+            },
+            {
+              "itemid": "86501",
+              "name": "Item 2",
+              "cost": 37.0,
+              "counted": true
+            }
+          ]
+        },
+        {
+          "entryid": "98480",
+          "title": "Purchase 8",
+          "date": "2021-12-19",
+          "ownerid": "user1.json",
+          "sum": 0.0,
+          "items": [
+            {
+              "itemid": "12108",
+              "name": "Item 1",
+              "cost": 51.0,
+              "counted": true
+            },
+            {
+              "itemid": "37946",
+              "name": "Item 2",
+              "cost": 40.0,
+              "counted": true
+            },
+            {
+              "itemid": "70742",
+              "name": "Item 3",
+              "cost": 40.0,
+              "counted": true
+            },
+            {
+              "itemid": "81178",
+              "name": "Item 4",
+              "cost": 38.0,
+              "counted": true
+            },
+            {
+              "itemid": "6232",
+              "name": "Item 5",
+              "cost": 15.0,
+              "counted": true
+            }
+          ]
+        },
+        {
+          "entryid": "85915",
+          "title": "Purchase 9",
+          "date": "2021-12-29",
+          "ownerid": "user1.json",
+          "sum": 0.0,
+          "items": [
+            {
+              "itemid": "28154",
+              "name": "Item 1",
+              "cost": 53.0,
+              "counted": true
+            },
+            {
+              "itemid": "71140",
+              "name": "Item 2",
+              "cost": 44.0,
+              "counted": true
+            }
+          ]
+        },
+        {
+          "entryid": "35529",
+          "title": "Purchase 10",
+          "date": "2021-12-13",
+          "ownerid": "user1.json",
+          "sum": 0.0,
+          "items": [
+            {
+              "itemid": "11704",
+              "name": "Item 1",
+              "cost": 9.0,
+              "counted": true
+            },
+            {
+              "itemid": "52531",
+              "name": "Item 2",
+              "cost": 8.0,
               "counted": true
             }
           ]
@@ -324,7 +306,7 @@
       "members": [
         "user1.json"
       ],
-      "groupid": "group1.json",
+      "groupid": "64717",
       "ratios": {
         "user1.json": 100.0
       }
@@ -343,7 +325,7 @@
         "PLACEHOLDER-USER-ID-2",
         "PLACEHOLDER-USER-ID-3"
       ],
-      "groupid": "group1.json",
+      "groupid": "83271",
       "ratios": {
         "user1.json": 100.0,
         "PLACEHOLDER-USER-ID-7":  100.0,
@@ -366,7 +348,7 @@
         "PLACEHOLDER-USER-ID-5",
         "PLACEHOLDER-USER-ID-3"
       ],
-      "groupid": "group1.json",
+      "groupid": "37402",
       "ratios": {
         "user1.json": 100.0,
         "PLACEHOLDER-USER-ID-7":  100.0,
